@@ -1,0 +1,21 @@
+﻿
+@model UI.MVC.Models.TeacherViewModel
+
+@{
+    ViewBag.Title = "AddTeacher";
+}
+
+<h2>AddTeacher</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.TextBoxFor(a=>a.Teacher.Firstname)
+    <br />
+    @Html.TextBoxFor(a=>a.Teacher.LastName)
+    <br />
+    @Html.TextBoxFor(a=>a.User.EMail)
+    <br />
+    @Html.TextBoxFor(a=>a.User.Password)
+    <br />
+    <input type="submit" name="name" value="Kaydet" />
+}

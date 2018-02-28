@@ -1,0 +1,78 @@
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\Core.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\Model.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\Core.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\Model.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\Core.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\Core.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\nbuy_ogrenci\Desktop\School\School\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\Core.dll
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\Core.pdb
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\Ninject.dll
+C:\Users\Lenova\Desktop\School\School\DataAccessLayer\bin\Debug\Ninject.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\Core.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\Ninject.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\Core.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\bin\Debug\Ninject.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\Core.dll
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\Ninject.dll
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\Core.pdb
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\Core.dll.config
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temo\Desktop\School\DataAccessLayer\bin\Debug\Ninject.xml
+C:\Users\Temo\Desktop\School\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Temo\Desktop\School\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Temo\Desktop\School\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Temo\Desktop\School\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

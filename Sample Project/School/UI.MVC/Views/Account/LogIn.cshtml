@@ -1,0 +1,16 @@
+﻿
+@model UI.MVC.Models.LoginViewModel
+@{
+    ViewBag.Title = "LogIn";
+}
+
+<h2>LogIn</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.TextBoxFor(a=>a.EMail)
+    <br />
+    @Html.TextBoxFor(a=>a.Password)
+    <br />
+    <input type="submit" name="name" value="Giriş Yap" />
+}

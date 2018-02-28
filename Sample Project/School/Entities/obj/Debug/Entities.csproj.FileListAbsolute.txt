@@ -1,0 +1,27 @@
+C:\Users\nbuy_ogrenci\Desktop\School\School\Entities\bin\Debug\Entities.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\Entities\bin\Debug\Entities.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\Entities\bin\Debug\Core.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\Entities\bin\Debug\EntityFramework.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\Entities\bin\Debug\Core.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\Entities\bin\Debug\EntityFramework.xml
+C:\Users\nbuy_ogrenci\Desktop\School\School\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\School\School\Entities\obj\Debug\Entities.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\Entities\obj\Debug\Entities.pdb
+C:\Users\Lenova\Desktop\School\School\Entities\bin\Debug\Entities.dll
+C:\Users\Lenova\Desktop\School\School\Entities\bin\Debug\Entities.pdb
+C:\Users\Lenova\Desktop\School\School\Entities\bin\Debug\Core.dll
+C:\Users\Lenova\Desktop\School\School\Entities\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\Desktop\School\School\Entities\bin\Debug\Core.pdb
+C:\Users\Lenova\Desktop\School\School\Entities\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\Desktop\School\School\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Desktop\School\School\Entities\obj\Debug\Entities.dll
+C:\Users\Lenova\Desktop\School\School\Entities\obj\Debug\Entities.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Entities\bin\Debug\Entities.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Entities\bin\Debug\Entities.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Entities\bin\Debug\Core.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Entities\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Entities\bin\Debug\Core.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Entities\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Entities\obj\Debug\Entities.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Entities\obj\Debug\Entities.pdb

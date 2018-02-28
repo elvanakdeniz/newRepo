@@ -1,0 +1,29 @@
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\Core\bin\Debug\Core.dll.config
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\Core\bin\Debug\Core.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\Core\bin\Debug\Core.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\Core\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\Core\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\Core\obj\Debug\Core.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\20180122_Etut\Core\obj\Debug\Core.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\Core\bin\Debug\Core.dll.config
+C:\Users\nbuy_ogrenci\Desktop\School\School\Core\bin\Debug\Core.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\Core\bin\Debug\Core.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\Core\bin\Debug\EntityFramework.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\Core\bin\Debug\EntityFramework.xml
+C:\Users\nbuy_ogrenci\Desktop\School\School\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbuy_ogrenci\Desktop\School\School\Core\obj\Debug\Core.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\Core\obj\Debug\Core.pdb
+C:\Users\Lenova\Desktop\School\School\Core\bin\Debug\Core.dll.config
+C:\Users\Lenova\Desktop\School\School\Core\bin\Debug\Core.dll
+C:\Users\Lenova\Desktop\School\School\Core\bin\Debug\Core.pdb
+C:\Users\Lenova\Desktop\School\School\Core\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\Desktop\School\School\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenova\Desktop\School\School\Core\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\Desktop\School\School\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenova\Desktop\School\School\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Desktop\School\School\Core\obj\Debug\Core.dll
+C:\Users\Lenova\Desktop\School\School\Core\obj\Debug\Core.pdb

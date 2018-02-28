@@ -1,0 +1,10 @@
+C:\Users\Lenova\Desktop\School\School\Extensions\bin\Debug\Extensions.dll
+C:\Users\Lenova\Desktop\School\School\Extensions\bin\Debug\Extensions.pdb
+C:\Users\Lenova\Desktop\School\School\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Desktop\School\School\Extensions\obj\Debug\Extensions.dll
+C:\Users\Lenova\Desktop\School\School\Extensions\obj\Debug\Extensions.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Extensions\bin\Debug\Extensions.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Extensions\bin\Debug\Extensions.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Extensions\obj\Debug\Extensions.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\Extensions\obj\Debug\Extensions.pdb

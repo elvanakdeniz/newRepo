@@ -1,0 +1,118 @@
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\UI.MVC.dll.config
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\UI.MVC.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\UI.MVC.pdb
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Helpers.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Razor.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Webpages.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Razor.xml
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Webpages.xml
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Helpers.xml
+C:\Users\Lenova\Desktop\School\School\UI.MVC\obj\Debug\UI.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Desktop\School\School\UI.MVC\obj\Debug\UI.MVC.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\obj\Debug\UI.MVC.pdb
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Mvc.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\System.Web.Mvc.xml
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\BusinessLogicLayer.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Core.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Entities.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Ninject.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Ninject.Web.Common.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\WebActivatorEx.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\DataAccessLayer.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\EntityFramework.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\BusinessLogicLayer.pdb
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Core.pdb
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Entities.pdb
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Ninject.xml
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Ninject.Web.Common.xml
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\DataAccessLayer.pdb
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\EntityFramework.xml
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Extensions.dll
+C:\Users\Lenova\Desktop\School\School\UI.MVC\bin\Extensions.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\UI.MVC.dll.config
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\UI.MVC.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\UI.MVC.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\BusinessLogicLayer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Core.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Entities.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Extensions.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Ninject.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Ninject.Web.Common.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.Helpers.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.Mvc.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.Razor.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.WebPages.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\WebActivatorEx.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\DataAccessLayer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\EntityFramework.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\BusinessLogicLayer.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Core.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Entities.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Extensions.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Ninject.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Ninject.Web.Common.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.Helpers.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.Mvc.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.Razor.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.WebPages.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\DataAccessLayer.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\bin\EntityFramework.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\obj\Debug\UI.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\obj\Debug\UI.MVC.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\UI.MVC\obj\Debug\UI.MVC.pdb
+C:\Users\Temo\Desktop\School\UI.MVC\bin\UI.MVC.dll.config
+C:\Users\Temo\Desktop\School\UI.MVC\bin\UI.MVC.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\UI.MVC.pdb
+C:\Users\Temo\Desktop\School\UI.MVC\bin\BusinessLogicLayer.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Core.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Entities.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Extensions.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Ninject.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Ninject.Web.Common.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.Helpers.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.Mvc.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.Razor.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.WebPages.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\WebActivatorEx.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\DataAccessLayer.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\EntityFramework.dll
+C:\Users\Temo\Desktop\School\UI.MVC\bin\BusinessLogicLayer.pdb
+C:\Users\Temo\Desktop\School\UI.MVC\bin\BusinessLogicLayer.dll.config
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Core.pdb
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Core.dll.config
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Entities.pdb
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Extensions.pdb
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Ninject.xml
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Ninject.Web.Common.xml
+C:\Users\Temo\Desktop\School\UI.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.Helpers.xml
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.Mvc.xml
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.Razor.xml
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.WebPages.xml
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Temo\Desktop\School\UI.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Temo\Desktop\School\UI.MVC\bin\DataAccessLayer.pdb
+C:\Users\Temo\Desktop\School\UI.MVC\bin\DataAccessLayer.dll.config
+C:\Users\Temo\Desktop\School\UI.MVC\bin\EntityFramework.xml
+C:\Users\Temo\Desktop\School\UI.MVC\obj\Debug\UI.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Temo\Desktop\School\UI.MVC\obj\Debug\UI.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Temo\Desktop\School\UI.MVC\obj\Debug\UI.MVC.dll
+C:\Users\Temo\Desktop\School\UI.MVC\obj\Debug\UI.MVC.pdb

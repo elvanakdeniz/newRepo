@@ -1,0 +1,70 @@
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\bin\Debug\Core.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\bin\Debug\Entities.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\bin\Debug\Core.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\bin\Debug\Entities.pdb
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\nbuy_ogrenci\Desktop\School\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\Core.dll
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\Entities.dll
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\Core.pdb
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\Entities.pdb
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\Ninject.dll
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenova\Desktop\School\School\BusinessLogicLayer\bin\Debug\Ninject.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\Core.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\Entities.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\Ninject.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\Core.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\Entities.pdb
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\bin\Debug\Ninject.xml
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Lenova\Documents\Visual Studio 2013\Projects\404 Akşam\School\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\Core.dll
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\Entities.dll
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\Ninject.dll
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\Core.pdb
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\Core.dll.config
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\Entities.pdb
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\bin\Debug\Ninject.xml
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Temo\Desktop\School\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
